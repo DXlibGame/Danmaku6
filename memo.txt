@@ -1,0 +1,18 @@
+danmaku shooting:
+
+敵機の作成２（敵の移動パターン追加、敵弾発射）
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーー
+・Enemy.h、Enemy.cpp、Game.cppを資料PDFに沿って修正する。
+
+・ビルドして確認。
+
+
+追加・修正ソース：
+Enemy.h
+Enemy.cpp
+Game.cpp
+
+
+追加ファイル：
+なし
